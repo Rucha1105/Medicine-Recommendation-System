@@ -1,0 +1,22 @@
+symptom,disease,medicine
+fever,covid-19,Paracetamol
+cough,covid-19,Cough Syrup
+shortness of breath,covid-19,Oxygen Therapy
+headache,migraine,Ibuprofen
+nausea,food poisoning,Ondansetron
+vomiting,food poisoning,ORS
+diarrhea,cholera,Zinc Tablets
+fatigue,anemia,Iron Supplement
+pale skin,anemia,Ferrous Sulfate
+sore throat,flu,Azithromycin
+runny nose,flu,Antihistamine
+chest pain,angina,Nitroglycerin
+blurred vision,glaucoma,Latanoprost
+joint pain,arthritis,Naproxen
+rash,allergy,Antihistamine
+itching,allergy,Loratadine
+high blood pressure,hypertension,Amlodipine
+sweating,malaria,Artemether
+muscle ache,dengue,Paracetamol
+bleeding gums,scurvy,Vitamin C
+
