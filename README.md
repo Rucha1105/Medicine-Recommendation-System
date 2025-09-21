@@ -1,6 +1,6 @@
 🩺 Medicine Recommendation System: 
 
-A smartAI-Powered Medicine Recommendation System that helps users identify diseases based on symptoms and recommends appropriate medicines while checking for drug interactions. Built for educational and practical purposes using Python and Machine Learning.
+A smart AI-Powered Medicine Recommendation System that helps users identify diseases based on symptoms and recommends appropriate medicines while checking for drug interactions. Built for educational and practical purposes using Python and Machine Learning.
 
 🔹 Features
 - Symptom-based disease prediction using Machine Learning (Naive Bayes classifier).
@@ -67,8 +67,8 @@ python app.py
 - Support for more diseases and medicines.
 
 - Voice input for symptoms.
-
-Mobile app version.
+  
+- Mobile app version.
 
 🔹 output
 
