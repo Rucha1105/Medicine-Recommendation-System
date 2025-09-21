@@ -71,5 +71,6 @@ Mobile app version.
 
 🔹 output
 
+https://github.com/Rucha1105/Medicine-Recommendation-System/blob/8e54cea3eea3a6cba58ab978303694c22850134b/output2.jpg
 
 
