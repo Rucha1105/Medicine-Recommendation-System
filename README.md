@@ -1,4 +1,5 @@
-🩺 Medicine Recommendation System
+🩺 Medicine Recommendation System: 
+
 A smartAI-Powered Medicine Recommendation System that helps users identify diseases based on symptoms and recommends appropriate medicines while checking for drug interactions. Built for educational and practical purposes using Python and Machine Learning.
 
 🔹 Features
@@ -70,7 +71,9 @@ python app.py
 Mobile app version.
 
 🔹 output
+
 https://github.com/Rucha1105/Medicine-Recommendation-System/blob/8e54cea3eea3a6cba58ab978303694c22850134b/output1.jpg
+
 https://github.com/Rucha1105/Medicine-Recommendation-System/blob/8e54cea3eea3a6cba58ab978303694c22850134b/output2.jpg
 
 
